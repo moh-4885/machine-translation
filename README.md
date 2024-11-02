@@ -17,7 +17,7 @@ pip install faker babel tqdm tensorflow
 To run the notebook, start by generating synthetic data:
 
 - Generate Date Data: Using Faker, we create date objects in various formats.
--  - Train Model: A sequence-to-sequence model with LSTM layers trains on the date data.
+- Train Model: A sequence-to-sequence model with LSTM layers trains on the date data.
 
 ## Model Architecture
 
